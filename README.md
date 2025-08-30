@@ -103,13 +103,13 @@ Within the download you'll find the following directories and files, logically g
   <li>Follow <a href="https://twitter.com/ux_4g" target="_blank">@ux_4g on Twitter</a></li>
 </u>
 <u>
-  <li>Watch and subscribe <a href="https://www.youtube.com/@UX4G/about"target="_blank">UX4g Youtube channel</a></li>
+  <li>Watch and subscribe <a href="https://www.youtube.com/@UX4G/about"target="_blank">UX4G YouTube channel</a></li>
 </u>
 <u>
-  <li>Read and subscribe <a href="https://medium.com/@ux4g.gov.in"target="_blank">The UX4g Blog</a></li>
+  <li>Read and subscribe <a href="https://medium.com/@ux4g.gov.in"target="_blank">The UX4G Blog</a></li>
 </u>
  <h2>Versioning</h2>
-<p>For transparency into our release cycle and in striving to maintain backward compatibility, ux4g is maintained under the <a href="https://semver.org/" target="_blank">Semantic Versioning guidelines</a>. Sometimes we screw up, but we adhere to those rules whenever possible.</p>
+<p>For transparency into our release cycle and in striving to maintain backward compatibility, UX4G is maintained under the <a href="https://semver.org/" target="_blank">Semantic Versioning guidelines</a>. Sometimes we screw up, but we adhere to those rules whenever possible.</p>
 <h2>Creators</h2>
   U4GX
 <a href="https://twitter.com/ux_4g" target="_blank">@ux_4g on Twitter</a>
